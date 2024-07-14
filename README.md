@@ -1,7 +1,7 @@
-# POWERBI -Maji Ndogo Water Project
+# Power BI -Maji Ndogo Water Project
 
 ## Project Overview
-### The project focused on addressing the water crises faced by the Maji Ndogo Community using PowerBI 
+### The project focused on addressing the water crises faced by the Maji Ndogo Community using Power BI 
 
 ## A deep look:
 I imported tables (.csv files) separately, cleaned the data data, and set up a working relational data model in Power BI. 

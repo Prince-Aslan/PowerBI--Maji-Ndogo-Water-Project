@@ -11,5 +11,5 @@ Then I finalized the national survey report and then built a public dashboard wi
 I tracked the total budget against project completion for vaious states respectively, analysed crime related events, Queue patterns, etc in addressing Maji Ndogo’s water crisis.
 
 
-* Note: To view the Analysis and Dashbard for this project, Kindly download each file and view them using Power BI
+* Note: To view the Analysis and Dashboard for this project, Kindly download each file and view them using Power BI
 
